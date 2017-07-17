@@ -1,0 +1,8 @@
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\trackbar ile buttonun boyutunu değiştirme\trackbar ile buttonun boyutunu değiştirme\bin\Debug\trackbar ile buttonun boyutunu değiştirme.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\trackbar ile buttonun boyutunu değiştirme\trackbar ile buttonun boyutunu değiştirme\bin\Debug\trackbar ile buttonun boyutunu değiştirme.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\trackbar ile buttonun boyutunu değiştirme\trackbar ile buttonun boyutunu değiştirme\obj\x86\Debug\trackbar ile buttonun boyutunu değiştirme.csprojResolveAssemblyReference.cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\trackbar ile buttonun boyutunu değiştirme\trackbar ile buttonun boyutunu değiştirme\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\trackbar ile buttonun boyutunu değiştirme\trackbar ile buttonun boyutunu değiştirme\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\trackbar ile buttonun boyutunu değiştirme\trackbar ile buttonun boyutunu değiştirme\obj\x86\Debug\trackbar ile buttonun boyutunu değiştirme.csproj.GenerateResource.Cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\trackbar ile buttonun boyutunu değiştirme\trackbar ile buttonun boyutunu değiştirme\obj\x86\Debug\trackbar ile buttonun boyutunu değiştirme.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\trackbar ile buttonun boyutunu değiştirme\trackbar ile buttonun boyutunu değiştirme\obj\x86\Debug\trackbar ile buttonun boyutunu değiştirme.pdb
